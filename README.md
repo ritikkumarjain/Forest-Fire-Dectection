@@ -1,4 +1,4 @@
-# Forest-Fire-Dectection
+# Forest-Fire-Detection
 
 In this repo we will talk about Forest Fires detection. Forest Fires pose a threat not only to the forest wealth but also to the entire regime to fauna and flora seriously disturbing the bio-diversity and the ecology and environment of a region. During summer, when there is no rain for months, the forests become littered with dry senescent leaves and twinges, which could burst into flames ignited by the slightest spark.
 
