@@ -17,3 +17,8 @@ These implies our model is ok.
 Then we plotted the learning curve which also shows that model has a good fit.
 And at last we solved our model so that we can simply deploy it later when needed.
 
+
+### Deployement 
+The model is deployed on streamlit.io using streamlit library.
+
+Link: https://share.streamlit.io/ritikkumarjain/forest-fire-detection
