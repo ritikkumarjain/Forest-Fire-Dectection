@@ -22,3 +22,8 @@ And at last we solved our model so that we can simply deploy it later when neede
 The model is deployed on streamlit.io using streamlit library.
 
 Link: https://share.streamlit.io/ritikkumarjain/forest-fire-detection
+
+### Screenshot of webapp;
+
+![Screenshot (80)](https://user-images.githubusercontent.com/69076815/116221014-d6613980-a76a-11eb-8ae8-8c15d7dfcd9f.png)
+
